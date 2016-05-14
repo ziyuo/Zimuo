@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">子墨号簿</string>
+    <string name="app_desc">子墨号簿,简洁，简单</string>
+    <string name="action_search">搜索</string>
+    <string name="action_more">更多</string>
+    <string name="action_settings">设置</string>
+    <string name="skip_notice">跳过</string>
+    <string name="complete_notice">完成</string>
+    <string name="section_format">页面 %1$d</string>
+    <string name="tab_contacts">联系人</string>
+    <string name="tab_calllog">通话记录</string>
+    <string name="tab_mine">我の</string>
+    <string name="recycleview_empty_msg">暂时没有 %1$s</string>
+
+</resources>
